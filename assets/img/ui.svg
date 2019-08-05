@@ -1,0 +1,339 @@
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 260 300" style="enable-background:new 0 0 260 300;" xml:space="preserve">
+	
+<defs>
+	<style type="text/css">
+		
+		.line2	{
+				animation: line2 12s infinite cubic-bezier(0.68, -0.55, 0.265, 1.55); 
+			}
+			
+			@keyframes line2 {
+				0%, 10% 	{
+					opacity: 1;
+				}
+				
+				13%, 65%	{
+					opacity: 0;
+				}
+				72%	{
+					opacity: 1;
+				}
+			}
+		
+		
+		
+		.header2	{
+				animation: header2 12s infinite cubic-bezier(0.68, -0.55, 0.265, 1.55); 
+			}
+			
+			@keyframes header2 {
+				0% 	{
+					transform: translate(0px);
+					opacity: 1;
+				}
+				
+				6%, 65%	{
+					transform: translate(-20px);
+					opacity: 0;
+				}
+				72%	{
+					transform: translate(0px);
+					opacity: 1;
+				}
+			}
+		
+		.header1	{
+				animation: header1 12s infinite cubic-bezier(0.68, -0.55, 0.265, 1.55); 
+			}
+			
+			@keyframes header1 {
+				0%, 10% 	{
+					transform: translate(20px);
+					opacity: 0;
+				}
+				
+				15%, 55%	{
+					transform: translate(0px);
+					opacity: 1;
+				}
+				65%, 100%	{
+					transform: translate(20px);
+					opacity: 0;
+				}
+			}
+		
+		
+		.main2	{
+				animation: main2 12s infinite cubic-bezier(0.68, -0.55, 0.265, 1.55); 
+			}
+			
+			@keyframes main2 {
+				0% 	{
+					transform: translate(0px);
+					opacity: 1;
+				}
+				
+				8%, 68%	{
+					transform: translate(20px);
+					opacity: 0;
+				}
+				75%	{
+					transform: translate(0px);
+					opacity: 1;
+				}
+			}
+		
+		.main1	{
+				animation: main1 12s infinite cubic-bezier(0.68, -0.55, 0.265, 1.55); 
+			}
+			
+			@keyframes main1 {
+				0%, 12% 	{
+					transform: translate(-20px);
+					opacity: 0;
+				}
+				
+				18%, 59%	{
+					transform: translate(0px);
+					opacity: 1;
+				}
+				69%, 100%	{
+					transform: translate(-20px);
+					opacity: 0;
+				}
+			}
+		
+		.square2	{
+				animation: square2 12s infinite cubic-bezier(0.68, -0.55, 0.265, 1.55); 
+			}
+			
+			@keyframes square2 {
+				0% 	{
+					transform: translateY(0px);
+					opacity: 1;
+				}
+				
+				9%, 68%	{
+					transform: translateY(20px);
+					opacity: 0;
+				}
+				76%	{
+					transform: translateY(0px);
+					opacity: 1;
+				}
+			}
+		
+		.square1	{
+				animation: square1 12s infinite cubic-bezier(0.68, -0.55, 0.265, 1.55); 
+			}
+			
+			@keyframes square1 {
+				0%, 12% 	{
+					transform: translateY(20px);
+					opacity: 0;
+				}
+				
+				18%, 57%	{
+					transform: translateY(0px);
+					opacity: 1;
+				}
+				66%, 100%	{
+					transform: translateY(20px);
+					opacity: 0;
+				}
+			}
+		
+		.menu2	{
+				animation: menu2 12s infinite cubic-bezier(0.68, -0.55, 0.265, 1.55); 
+			}
+			
+			@keyframes menu2 {
+				0% 	{
+					transform: translate(0px);
+					opacity: 1;
+				}
+				
+				12%, 68%	{
+					transform: translate(20px);
+					opacity: 0;
+				}
+				73%	{
+					transform: translate(0px);
+					opacity: 1;
+				}
+			}
+		
+		.menu1	{
+				animation: menu1 12s infinite cubic-bezier(0.68, -0.55, 0.265, 1.55); 
+			}
+			
+			@keyframes menu1 {
+				0%, 14% 	{
+					transform: translate(20px);
+					opacity: 0;
+				}
+				
+				19%, 55%	{
+					transform: translate(0px);
+					opacity: 1;
+				}
+				63%, 100%	{
+					transform: translate(20px);
+					opacity: 0;
+				}
+			}
+		
+		.menu4	{
+				animation: menu4 12s infinite cubic-bezier(0.68, -0.55, 0.265, 1.55); 
+			}
+			
+			@keyframes menu4 {
+				0% 	{
+					transform: translate(0px);
+					opacity: 1;
+				}
+				
+				14%, 70%	{
+					transform: translate(20px);
+					opacity: 0;
+				}
+				75%	{
+					transform: translate(0px);
+					opacity: 1;
+				}
+			}
+		
+		.menu3	{
+				animation: menu3 12s infinite cubic-bezier(0.68, -0.55, 0.265, 1.55); 
+			}
+			
+			@keyframes menu3 {
+				0%, 16% 	{
+					transform: translate(20px);
+					opacity: 0;
+				}
+				
+				21%, 57%	{
+					transform: translate(0px);
+					opacity: 1;
+				}
+				65%, 100%	{
+					transform: translate(20px);
+					opacity: 0;
+				}
+			}
+		
+		.menu6	{
+				animation: menu6 12s infinite cubic-bezier(0.68, -0.55, 0.265, 1.55); 
+			}
+			
+			@keyframes menu6 {
+				0% 	{
+					transform: translate(0px);
+					opacity: 1;
+				}
+				
+				16%, 72%	{
+					transform: translate(20px);
+					opacity: 0;
+				}
+				77%	{
+					transform: translate(0px);
+					opacity: 1;
+				}
+			}
+		
+		.menu5	{
+				animation: menu5 12s infinite cubic-bezier(0.68, -0.55, 0.265, 1.55); 
+			}
+			
+			@keyframes menu5 {
+				0%, 18% 	{
+					transform: translate(20px);
+					opacity: 0;
+				}
+				
+				23%, 59%	{
+					transform: translate(0px);
+					opacity: 1;
+				}
+				67%, 100%	{
+					transform: translate(20px);
+					opacity: 0;
+				}
+			}
+		
+		/*Block dark*/
+		.dark{fill:#131619;}
+		.blue{fill:#4269E1;}
+		.red{fill:#DB504A;}
+		
+		/*Block dark*/
+		.d-header{fill:#5E5F68;}
+		.d-main{fill:#363742;}	
+		.d-aside{fill:#222430;}
+		.d-menu-one{fill:#7F7B82;}
+		.d-menu-two{fill:#5E5F68;}
+		.d-menu-three{fill:#222430;}
+		
+		/*Block blue*/
+		.b-header{fill:#5973C1;}
+		.b-main{fill:#2C4594;}	
+		.b-aside{fill:#223673;}
+		.b-menu-one{fill:#5973C1;}
+		.b-menu-two{fill:#3554B4;}
+		.b-menu-three{fill:#2C4594;}
+		
+	
+	</style>
+</defs>
+
+<g class="background">
+	<path class="dark" d="M25,298.5c-12.958,0-23.5-10.542-23.5-23.5V25C1.5,12.042,12.042,1.5,25,1.5h210
+		c12.958,0,23.5,10.542,23.5,23.5v250c0,12.958-10.542,23.5-23.5,23.5H25z"/>
+	<path class="red" d="M235,3c12.131,0,22,9.869,22,22v250c0,12.131-9.869,22-22,22H25c-12.131,0-22-9.869-22-22V25
+		C3,12.869,12.869,3,25,3H235 M235,0H25C11.25,0,0,11.25,0,25v250c0,13.75,11.25,25,25,25h210c13.75,0,25-11.25,25-25V25
+		C260,11.25,248.75,0,235,0L235,0z"/>
+	<path class="blue line2" d="M235,3c12.131,0,22,9.869,22,22v250c0,12.131-9.869,22-22,22H25c-12.131,0-22-9.869-22-22V25
+		C3,12.869,12.869,3,25,3H235 M235,0H25C11.25,0,0,11.25,0,25v250c0,13.75,11.25,25,25,25h210c13.75,0,25-11.25,25-25V25
+		C260,11.25,248.75,0,235,0L235,0z"/>
+</g>
+<g class="header">
+	<path class="d-header header1" d="M234.999,36.824c0,5.5-4.5,10-10,10H35c-5.5,0-10-4.5-10-10v-2.667c0-5.5,4.5-10,10-10h189.999
+		c5.5,0,10,4.5,10,10V36.824z"/>
+	<path class="b-header header2" d="M234.999,36.824c0,5.5-4.5,10-10,10H35c-5.5,0-10-4.5-10-10v-2.667c0-5.5,4.5-10,10-10h189.999
+		c5.5,0,10,4.5,10,10V36.824z"/>
+</g>
+<g class="main">
+	<path class="d-main main1" d="M234.999,171.49c0,5.5-4.5,10-10,10H35c-5.5,0-10-4.5-10-10V66.476c0-5.5,4.5-10,10-10h189.999
+		c5.5,0,10,4.5,10,10V171.49z"/>
+	<path class="b-main main2" d="M234.999,171.49c0,5.5-4.5,10-10,10H35c-5.5,0-10-4.5-10-10V66.476c0-5.5,4.5-10,10-10h189.999
+		c5.5,0,10,4.5,10,10V171.49z"/>
+</g>
+<g class="square">
+	<path class="d-aside square1" d="M105.668,265.842c0,5.5-4.5,10-10,10H35c-5.5,0-10-4.5-10-10v-63.685c0-5.5,4.5-10,10-10h60.668
+		c5.5,0,10,4.5,10,10V265.842z"/>
+	<path class="b-aside square2" d="M105.668,265.842c0,5.5-4.5,10-10,10H35c-5.5,0-10-4.5-10-10v-63.685c0-5.5,4.5-10,10-10h60.668
+		c5.5,0,10,4.5,10,10V265.842z"/>
+</g>
+<g class="aside">
+	<g>
+		<path class="d-menu-one menu1" d="M234.999,204.824c0,5.5-4.5,10-10,10h-98.834c-5.5,0-10-4.5-10-10v-2.667c0-5.5,4.5-10,10-10h98.834
+			c5.5,0,10,4.5,10,10V204.824z"/>
+		<path class="b-menu-one menu2" d="M234.999,204.824c0,5.5-4.5,10-10,10h-98.834c-5.5,0-10-4.5-10-10v-2.667c0-5.5,4.5-10,10-10h98.834
+			c5.5,0,10,4.5,10,10V204.824z"/>
+	</g>
+	<g>
+		<path class="d-menu-two menu3" d="M234.999,235.842c0,5.5-4.5,10-10,10h-98.834c-5.5,0-10-4.5-10-10v-2.667c0-5.5,4.5-10,10-10h98.834
+			c5.5,0,10,4.5,10,10V235.842z"/>
+		<path class="b-menu-two menu4" d="M234.999,235.842c0,5.5-4.5,10-10,10h-98.834c-5.5,0-10-4.5-10-10v-2.667c0-5.5,4.5-10,10-10h98.834
+			c5.5,0,10,4.5,10,10V235.842z"/>
+	</g>
+	<g>
+		<path class="d-menu-three menu5" d="M234.999,265.842c0,5.5-4.5,10-10,10h-98.834c-5.5,0-10-4.5-10-10v-2.667c0-5.5,4.5-10,10-10h98.834
+			c5.5,0,10,4.5,10,10V265.842z"/>
+		<path class="b-menu-three menu6" d="M234.999,265.842c0,5.5-4.5,10-10,10h-98.834c-5.5,0-10-4.5-10-10v-2.667c0-5.5,4.5-10,10-10h98.834
+			c5.5,0,10,4.5,10,10V265.842z"/>
+	</g>
+</g>
+</svg>
